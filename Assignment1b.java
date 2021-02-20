@@ -1,5 +1,3 @@
-import jdk.nashorn.internal.parser.Scanner;
-
 /**
  * Assignment 1 Part b (Factorial)
  */
